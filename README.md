@@ -21,13 +21,9 @@ Commands and Actions:
 - -bombs add <number> - add bombs
 - -bombs remove <number> - remove bombs
 
-# Mods Creating
+# Mods Creating & Uploading
 - Copy ExMod files
 - And edit it!
 
-# Contributing
-
-to become a contributor you need to 
+To upload:
 - Upload u'r mod in [RagMods](https://t.me/ragalikMods)
-- Your mod should not be a copy of another
-
