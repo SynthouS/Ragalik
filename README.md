@@ -12,6 +12,7 @@ Objects:
 - S = it's spike, hit and remove moves between 5 and 15
 - E = An enemy, hit for 10
 - @ = it's a you.
+
 Commands and Actions:
 
 - w/a/s/d = standard move
