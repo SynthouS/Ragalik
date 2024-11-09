@@ -13,6 +13,7 @@ Objects:
 - E = An enemy, hit for 10
 - @ = it's a you.
 Commands and Actions:
+
 - w/a/s/d = standard move
 - exit or q = exit
 - bomb = explode a bomb
