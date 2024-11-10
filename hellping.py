@@ -5,6 +5,8 @@ def show_help():
     print("S = it's spike, hit and remove moves between 5 and 15")
     print("E = An enemy, hit for 10")
     print("@ = it's a you.")
+    print("O = door for next room")
+    print("W = game end, victory")
     print("Commands and Actions:")
     print("w/a/s/d = standard move")
     print("exit or q = exit")
