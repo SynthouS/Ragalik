@@ -12,6 +12,8 @@ Objects:
 - S = it's spike, hit and remove moves between 5 and 15
 - E = An enemy, hit for 10
 - @ = it's a you.
+- O = it's a door for next room
+- W = game finish, victory
 
 Commands and Actions:
 
